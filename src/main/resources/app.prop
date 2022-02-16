@@ -1,0 +1,4 @@
+url.endpoint=https://newsapi.org//v2//top-headlines
+url.category=business
+url.language=pl
+url.apikey=
